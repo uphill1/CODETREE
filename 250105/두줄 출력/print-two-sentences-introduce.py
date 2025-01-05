@@ -1,2 +1,2 @@
-print("Hellp students!")
+print("Hello students!")
 print("Welcome to LeebrosCode!")
