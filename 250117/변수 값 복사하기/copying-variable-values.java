@@ -3,6 +3,6 @@ public class Main {
         // Please write your code here.
         int a=1,b=2,c=3;
         a=b=c;
-        System.out.println(a+" "+b+ " "+c )
+        System.out.println(a+" "+b+ " "+c );
     }
 }
