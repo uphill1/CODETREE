@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-    cout << "Hello";
-    cout << endl;
+    // Please write your code here.
+    cout << "Hello\n";
     cout << "World";
     return 0;
 }
