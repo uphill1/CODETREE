@@ -10,11 +10,11 @@ for i in range(n):
     if dirc == "E":
         move=0
     elif dirc == "W":
-        move=0
+        move=1
     elif dirc == "S":
-        move=0
+        move=2
     elif dirc == "N":
-        move=0
+        move=3
 
     x= x + dx[move]*dist
     y = y+ dy[move]*dist
